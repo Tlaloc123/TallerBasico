@@ -11,9 +11,16 @@ Este repositorio sirve como guia y material de practica para el taller
 
 Durante este taller, exploraremos el siguiente flujo de trabajo
 
-### | Configuracion inicial
+### 1 Configuracion inicial
 
 '''bash
 git config user.name "Antonio Vidal"
 git config user.mail 196985.fasbit@uabjo.mx
+git config --global user.mail "196985.fasbit@uabjo.mx
+git config --global user.name "Antonio Vidal"
 
+### 2 first commit
+
+'''bash
+git commit
+git status
